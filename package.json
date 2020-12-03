@@ -1,0 +1,27 @@
+{
+  "name": "stripe-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertrandcodes/stripe-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertrandcodes/stripe-project/issues"
+  },
+  "homepage": "https://github.com/bertrandcodes/stripe-project#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "stripe": "^8.126.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
